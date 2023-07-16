@@ -2,7 +2,7 @@
   "dependencies": {
     "tailwindcss": "^3.3.3"
   },
-  "name": "tailwindcss-practise",
+  "name": "y",
   "description": "This is where i practise Tailwindcss with Flask.",
   "version": "1.0.0",
   "main": "tailwind.config.js",
